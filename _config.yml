@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: Tailang
 
 ### this variable is MarkDown form.
-description: iOS、Ruby on Rails、ReactNative、Flutter、Web
+description: developer, caopingcpu#gmail.com
 avatar: /image/avatar.jpeg
 
 # main menu navigation
@@ -26,7 +26,7 @@ links:
   Blog: /archives
   # Category:
   # Tags: 
-  # Link:
+  Link: /about
   # Resume:
   # Publish:
   # Trophy:
@@ -36,7 +36,7 @@ links:
   # ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
   # FaceBook:
-  # Twitter:
+  Twitter: /twitter
   # Skype:
   # CodeSandBox:
   # CodePen:
@@ -48,7 +48,7 @@ links:
   # YouTube:
   # QQ:
   # Weibo:
-  # WeChat:
+  WeChat: /wechat
   Github: https://github.com/tailang
 
 # how links show: you have 2 choice--text or icon.
