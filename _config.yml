@@ -1,15 +1,15 @@
 # Header
-navname: Tialang
+navname: Tailang
 
 # navigatior items
 nav:
-  Posts: /archives
+  #Posts: /archives
   #Categories: /category
   #Tags: /tag
-  #About: /about
+  About: /about
 
 # favicon
-favicon: /favicon.ico
+favicon: /favicon.jpeg
 
 # Profile
 nickname: Tailang
