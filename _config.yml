@@ -1,12 +1,12 @@
 # Header
-navname: Tialang's Blog
+navname: Tialang
 
 # navigatior items
 nav:
-  Posts: /archives
+  #Posts: /archives
   #Categories: /category
   #Tags: /tag
-  About: /about
+  #About: /about
 
 # favicon
 favicon: /favicon.ico
