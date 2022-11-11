@@ -3,10 +3,10 @@ navname: Tailang
 
 # navigatior items
 nav:
-  #Posts: /archives
+  再见嘌呤: https://byepurine.tailang.top
   #Categories: /category
   #Tags: /tag
-  About: /about
+  加点料: https://hex.tailang.top
 
 # favicon
 favicon: /favicon.jpeg
