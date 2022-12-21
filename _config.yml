@@ -15,7 +15,7 @@ favicon: /favicon.jpeg
 nickname: Tailang
 
 ### this variable is MarkDown form.
-description: developer, mail@tailang.top
+description: An indie developer
 avatar: /image/avatar.jpeg
 
 # main menu navigation
@@ -23,7 +23,7 @@ avatar: /image/avatar.jpeg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
+  # Blog: /archives
   # Category:
   # Tags: 
   Link: /about
