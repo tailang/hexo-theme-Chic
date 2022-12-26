@@ -3,9 +3,10 @@ navname: Tailang
 
 # navigatior items
 nav:
-  再见嘌呤: https://byepurine.tailang.top
   #Categories: /category
   #Tags: /tag
+  骑行地图: https://ridermap.tailang.top
+  再见嘌呤: https://byepurine.tailang.top
   加点料: https://hex.tailang.top
 
 # favicon
